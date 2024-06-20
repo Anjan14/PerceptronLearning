@@ -1,6 +1,6 @@
 # CSC 736 - Machine Learning
 ## Perceptron Learning Algorithm
-### Objectives  
+## Objectives:  
 1. Learn and demonstrate knowledge of Perceptron classification.
 2. Visualize the learning process of Perceptron.
 
