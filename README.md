@@ -2,6 +2,7 @@
 # Objectives  
 1. Learn and demonstrate knowledge of Perceptron classification.
 2. Visualize the learning process of Perceptron.
+
 A perceptron is able to classify linear separable dataset. In this assignment, you are
 required to develop a program that is able to:
 1. Generate points in the training set.
